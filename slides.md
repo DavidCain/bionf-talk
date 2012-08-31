@@ -594,6 +594,62 @@ find the mRNA sequence that would create the fragment:
 - github.com/davidcain
 
 
+# Links
+- *Links can be found throughout presentation*
+- A summary of all used links (plus a few extra) follows.
+
+## SMART, Sasisekharan Lab
+- [SMART- Singapore-MIT Alliance for Technology and Research](smart)
+- [Sasisekharan Lab][sasisekharan-lab]
+    * [News/discoveries](sasisekharan-news)
+    * [Important mutation point discovered in H1N1][H1N1-mutation]
+    * [Heparin crisis][heparin]
+
+## Systems biology
+- [Boids][boids], by [Craig Reynolds][craigr], 1986
+
+# Links
+## Sequences
+- [BLAST][ncbi-blast]
+- [Overview of BLAST][blast-overview]
+- [Protein blast][pblast]
+
+
+## Docking
+- [PatchDock][patchdock]
+- [ZDOCK][zdock]
+- [HADDOCK][haddock]
+
+## Sequence alignment tools
+- [MUSCLE][muscle]
+- [Mustang][mustang]
+- [Clustal][clustal]
+
+# Links
+## Secondary structure
+- [dssp][dssp-2]
+
+
+## [Biopython][biopython]
+- [Biopython][biopython]
+- [How to Contribute][biopython-contribute]
+
+## Folding
+- [Folding@Home][folding-home]
+
+# Links
+## Open Source
+- [Free Software Foundation][fsf]
+- [GNU][gnu]
+
+
+## Online resources
+- [BLAST][ncbi-blast]
+- [SWISS-MODEL][swiss-model]
+- [COSMIC][cosmic]
+
+
+
   [smart]: http://smart.mit.edu
   [sasisekharan-lab]: http://web.mit.edu/tox/sasisekharan/index.html
   [sasisekharan-news]: http://web.mit.edu/tox/sasisekharan/news/index.html
