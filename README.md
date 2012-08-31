@@ -9,6 +9,14 @@ by the [NUS Student Chapter of the ACM][nusacm] on August 30th, 2012.
 > The talk includes a survey of common procedures, algorithms, and tools
 > used in this fast-growing field.
 
+## Extra-slide demonstrations
+- A [`clustalx`][clustal] alignment was performed on the sequences within
+  `H1N1_seqs.fasta` as part of an exploration of sequences.
+- The PyMOL sessions `alpha.pse` and `beta.pse` were used when discussing
+  secondary structures
+- The PyMOL session `1ktr.pse` demonstrates docking software's predictive
+  capabilities on real-world data.
+
 ## Modifying/distributing this presentation
 The source of the slide show, `slides.md` is written in an extension of
 Markdown, [Pandoc's markdown][pandoc-markdown]. That is, it has some
@@ -36,3 +44,5 @@ for details.
   [pandoc]: http://johnmacfarlane.net/pandoc
   [pandoc-markdown]: http://johnmacfarlane.net/pandoc/demo/example9/pandocs-markdown.html
   [pandoc-readme]: http://johnmacfarlane.net/pandoc/README.html
+
+  [clustal]: http://www.clustal.org
