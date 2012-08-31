@@ -168,7 +168,7 @@ DOI: 10.1126/science.1069492
 - A biological sequence is the result of reading a biological object (e.g. a
   protein or a string of DNA) end to end.
 - Represented as a string of characters
-- Characters belong to a pre alphabet
+- Characters belong to a alphabet
     * Protein alphabet
     * DNA/RNA alphabet
 
@@ -204,8 +204,8 @@ find the mRNA sequence that would create the fragment:
 
 ## Sequence mutation
 - DNA mutation -> protein mutation
-- redundancy in codon to amino acid translation
-- radical changes are selected against
+- Redundancy in codon to amino acid translation
+- Radical changes are selected against
 
 \begin{center}
 \includegraphics[height=4cm]{images/codons.png}
@@ -464,8 +464,8 @@ find the mRNA sequence that would create the fragment:
 # Engineering, drug design
 
 ## Engineering proteins
-- artifical antibodies to combat viruses
-- modified viruses to actually help the body
+- Artifical antibodies to combat viruses
+- Modified viruses to actually help the body
 
 ## Relation to study of protein folding
 - Fold contains the function
@@ -497,7 +497,7 @@ find the mRNA sequence that would create the fragment:
 - Cost per calculation
 - Multithreading
 - Overclocking
-- low-level: C & assembly
+- Low-level: C & assembly
 
 
 # Open source
@@ -505,7 +505,7 @@ find the mRNA sequence that would create the fragment:
 ## Free vs. libre
 - FOSS
 - Free "as in beer" and free "as in freedom"
-- copyright vs. copyleft
+- Copyright vs. copyleft
 - [Free Software Foundation][fsf]
 
 ## Well-known libre licenses
