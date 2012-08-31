@@ -646,11 +646,26 @@ find the mRNA sequence that would create the fragment:
 - [Free Software Foundation][fsf]
 - [GNU][gnu]
 
-
 ## Online resources
 - [BLAST][ncbi-blast]
 - [SWISS-MODEL][swiss-model]
 - [COSMIC][cosmic]
+
+
+# Attributions
+Most images used in this presentation are in the public domain.
+A good faith effort was made to properly attribute images according
+to their licensing terms.
+
+- [H1N1 photo](http://ko.fotopedia.com/items/flickr-3485542859)- Jesus Perez
+- [Ants swarming](http://autodock.scripps.edu/)
+- [Docking graphic](http://bioinfo3d.cs.tau.ac.il/PatchDock/)
+- [Systems biology diagram](http://www.sciencemag.org/content/295/5560/1662)
+- [School of mullets](http://frank.itlab.us/photo_essays/wrapper.php?dec_28_2004_silverglen.html)
+- [Protein structure graphic](http://en.wikipedia.org/wiki/File:Protein_structure.png)
+- [Homology model backbone](http://taxane.chem.unb.ca/GD/SARS/index.html)
+- [Gene therapy in clinical medicine](http://pmj.bmj.com/content/80/948/560.long)
+- [RNA codons](http://en.wikipedia.org/wiki/File:RNA-codons.png)
 
 
 
