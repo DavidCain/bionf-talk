@@ -388,10 +388,12 @@ find the mRNA sequence that would create the fragment:
 
 # Protein Docking
 
-## Popular algorithms:
-- [PatchDock][patchdock]
-- [ZDOCK][zdock]
+## Popular tools:
+- [AutoDock][autodock]
 - [HADDOCK][haddock]
+- [PatchDock][patchdock]
+- [RosettaDock][rosettadock]
+- [ZDOCK][zdock]
 
 
 # Protein Docking
@@ -616,9 +618,11 @@ find the mRNA sequence that would create the fragment:
 
 
 ## Docking
-- [PatchDock][patchdock]
-- [ZDOCK][zdock]
+- [AutoDock][autodock]
 - [HADDOCK][haddock]
+- [PatchDock][patchdock]
+- [RosettaDock][rosettadock]
+- [ZDOCK][zdock]
 
 ## Secondary structure
 - [dssp][dssp-2]
@@ -661,9 +665,11 @@ find the mRNA sequence that would create the fragment:
   [blast-overview]: http://www.ncbi.nlm.nih.gov/books/NBK1734/
   [pblast]: http://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&BLAST_PROGRAMS=blastp&PAGE_TYPE=BlastSearch&SHOW_DEFAULTS=on&LINK_LOC=blasthome
   
+  [autodock]: http://autodock.scripps.edu/
+  [haddock]: www.nmr.chem.uu.nl/haddock
   [patchdock]: http://bioinfo3d.cs.tau.ac.il/PatchDock/
+  [rosettadock]: http://graylab.jhu.edu/docking/rosetta/
   [zdock]: http://zdock.umassmed.edu/
-  [haddock]: http://TODO
   
   [muscle]: http://www.drive5.com/muscle/
   [mustang]: http://www.csse.monash.edu.au/~karun/Site/mustang.html
