@@ -620,15 +620,15 @@ find the mRNA sequence that would create the fragment:
 - [ZDOCK][zdock]
 - [HADDOCK][haddock]
 
+## Secondary structure
+- [dssp][dssp-2]
+
+
+# Links
 ## Sequence alignment tools
 - [MUSCLE][muscle]
 - [Mustang][mustang]
 - [Clustal][clustal]
-
-# Links
-## Secondary structure
-- [dssp][dssp-2]
-
 
 ## [Biopython][biopython]
 - [Biopython][biopython]
