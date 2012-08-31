@@ -2,12 +2,19 @@
 This presentation was given as part of a [talk series][acm-talks] put on
 by the [NUS Student Chapter of the ACM][nusacm] on August 30th, 2012.
 
-## Synopsis/promotional tagline
+### Synopsis/promotional tagline
 
 > An introduction to bioinformatics- an expanding field focused on
 > solving biological problems through applications of computer science.
 > The talk includes a survey of common procedures, algorithms, and tools
 > used in this fast-growing field.
+
+## Downloading the presentation
+1. Download the PDF copy from the [Downloads][dls] page.
+2. Clone the git repository and render your own
+
+    $ git clone https://github.com/DavidCain/bionf-talk.git
+
 
 ## Extra-slide demonstrations
 - A [`clustalx`][clustal] alignment was performed on the sequences within
@@ -38,6 +45,8 @@ images used within are governed by the terms of their respective
 licenses, which may not be compatible with the GPL. See the LICENSE file
 for details.
 
+
+  [dls]: https://github.com/DavidCain/bionf-talk/downloads
 
   [acm-talks]: http://nusacm.org/events/talks/index.html
   [nusacm]: http://nusacm.org/index.html
